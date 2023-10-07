@@ -3,7 +3,7 @@
 
 ##  socks5代理启动
 ```shell
-go run server/main.go
+go run server/main.go &&  go run main.go
 ```
 ##  测试一
 ```shell
